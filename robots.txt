@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /header.php
+Disallow: /footer.php
+Disallow: /portfolio/header.php
+Disallow: /portfolio/footer.php
+Disallow: /portfolio/index.php
